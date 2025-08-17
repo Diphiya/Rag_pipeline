@@ -1,0 +1,15 @@
+To: nikolas.korder@iem.fraunhofer.de
+Subject: GenAI-Incubator — MVP Submission: Job Application Assistant (RAG)
+
+Hello Nikolas,
+
+Please find attached my submission for the Student Assistant (m/f/d): GenAI-Incubator challenge.
+
+• Project: Job Application Assistant (RAG) — MVP
+• Live demo: (URL if deployed) or instructions in README_Fraunhofer.md
+• No login required; intuitive UI; AI-assisted; editable results
+• Files included: code, documentation, and C4 PDF
+
+Thank you for your time and consideration.
+Best regards,
+Diphiya Jose
