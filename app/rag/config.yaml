@@ -1,8 +1,0 @@
-app_name: "Job Application Assistant (RAG)"
-backend: "ollama"          # ollama | openai | none
-default_model: "llama3.1"  # e.g., llama3.1, mistral, qwen2.5
-max_input_tokens: 8000
-top_k: 5
-chunk_size: 800
-chunk_overlap: 120
-embeddings_model: "sentence-transformers/all-MiniLM-L6-v2"
