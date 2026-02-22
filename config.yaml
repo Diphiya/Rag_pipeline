@@ -1,0 +1,6 @@
+pdf_folder: "pdf"
+faiss_index_path: "data/faiss_index.index"
+chunk_size: 500
+chunk_overlap: 50
+embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
+llm_model: "llama3"
